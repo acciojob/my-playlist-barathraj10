@@ -22,7 +22,10 @@ h1, h2{
 li{
 	list-style:none;
 }
-.player_one{
+a{
+	text-decoration-line:none;
+}
+.player_one, .player_two{
 	width:100%;
 	background-color: rgb(255, 255, 255);
 	padding:10px; 
